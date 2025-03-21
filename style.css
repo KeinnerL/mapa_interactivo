@@ -72,6 +72,7 @@
     width: 100vw;
     height: 100vh;
     text-align: center;
+    font-size: 20px;
 }
 .parrafo_depa{
     width: 100vw;
@@ -83,4 +84,14 @@
     position: relative;
     left: 380px;
     font-size: 20px;
+}
+.lista_depa{
+    background-color: cornsilk;
+    height: auto;
+    width: auto;
+}
+.comida_depa {
+    background-color: cornsilk;
+    width: auto;
+    height: auto;
 }
